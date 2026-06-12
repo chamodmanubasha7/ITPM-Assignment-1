@@ -1,0 +1,1 @@
+Singlish to Sinhala Transliteration Testing using Playwright Automation. Includes 50 negative test cases, automation scripts, and Excel-based result analysis for evaluating chat-style transliteration accuracy.
